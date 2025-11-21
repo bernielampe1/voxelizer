@@ -1,0 +1,5 @@
+Huang, Yagel, Filippov, Kurzion. An Accurate Method for Voxelizing Polygon Meshes. IEEE Symp. on Volume Visualization, 1998. PDF (author page), IEEE Xplore entry, CS Digital Library entry.
+Jeroen Baert. An accurate method for voxelizing polygon meshes (explanation and practical notes). (2012) (blog). [forceflow.be]
+BINVOX file format specification (RLE; y‑fastest ordering). [patrickmin.com]
+Stack Overflow clarification of .binvox RLE pairs (value, count). [stackoverflow.com]
+Related: Fast GPU surface/solid voxelization (triangle/box overlap tests; conservative rasterization).

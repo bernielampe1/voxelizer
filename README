@@ -1,0 +1,2 @@
+Command line:
+    ./voxelize -i mesh.obj -o out.binvox -n 256 [--solid] [--conn 6|18|26] [--threads N]
